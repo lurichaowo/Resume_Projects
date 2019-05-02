@@ -1,0 +1,40 @@
+﻿SCRABBLE PROJECT:
+
+
+Rules of Scrabble:
+* 2 to 4 players (finished)
+* Of the first draws of each player, earliest (closest to A) goes first.
+* Each player then draws 6 more tiles (7 in total including first one)
+--------------------------------------------------------------------------------------------------- easy part[a] ^^^
+--------------------------------------------------------------------------------------------------- core part[b][c] vvv
+* Players will put down letters on board to make up a word (like a crossword puzzle - so vertical and horizontal)
+   * Backwards and diagonals not allowed
+* For each word played add tile value along with any multipliers onto score for each player.
+   * Blank tile: only letter value 
+   * Double letter: double letter value
+   * Triple letter: triple letter value
+   * Double word: double entire word value
+   * Triple word: triple entire word value
+--------------------------------------------------------------------------------------------------- core part ^^^
+--------------------------------------------------------------------------------------------------- easy part vvv
+* Player draws tiles equal to number of letters used until there is no tiles left.
+* The player with most points win.
+
+
+In the scrabble bag:
+* 1 point: E ×12, 
+A, I ×9, 
+O ×8, 
+N, R, T ×6,
+L, S, U ×4
+* 2 points: D ×4, G ×3
+* 3 points: B, C, M, P ×2
+* 4 points: F , H, V, W, Y ×2
+* 5 points: K ×1
+* 8 points: J, X ×1
+* 10 points: Q, Z ×1
+
+
+[a]Lets try to get the easy part done ASAP by Thursday
+[b]This seems hard but if you break it apart its not.
+[c]And try to finish this hopefully by next week Thur or Fri to get this over with so we have time for other finals and stuff
